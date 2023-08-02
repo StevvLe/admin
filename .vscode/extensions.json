@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "mrmlnc.vscode-less",
+    "MisterJ.vue-volar-extention-pack",
+    "Vue.volar"
+  ]
+}

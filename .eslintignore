@@ -1,0 +1,12 @@
+# Third party
+**/node_modules
+types/auto-imports.d.ts
+types/components.d.ts
+
+# Build products
+dist/
+
+# Configuration file
+
+# Ignore all HTML files:
+*.html
